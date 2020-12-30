@@ -3,4 +3,4 @@ Just another repository
 
 Hi,
 My name is Afzal Chaudhary.
-I am currently studying in third year of engineering.
+I completed B.E in Computer Science from Lokmanya Tilak College of Engineering.
